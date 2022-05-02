@@ -8,16 +8,3 @@ The object of the puzzle is to place the tiles in order (see diagram) by making 
 This project was intentionally programmed to solve the n-puzzle problem with artificial inelegance algorithms.
 
 Powered by Angular2
-
- - Checkout the [Memory Game](https://murhafsousli.github.io/memory/)
-
-## Author
-
- **[Murhaf Sousli](http://murhafsousli.com)**
-
- - [github/murhafsousli](https://github.com/MurhafSousli)
- - [twitter/murhafsousli](https://twitter.com/MurhafSousli)
-
-## License
-
-[![AUR](https://img.shields.io/aur/license/yaourt.svg?style=flat-square)](/LICENSE)
